@@ -9,7 +9,7 @@ compass:
   # author will appear under the avatar (optional)
   author: "bretheim"
   # tagline will appear under the title (optional)
-  tagline: "A <a href='http://bretheim.com'>website</a> on the World Wide Web."
+  tagline: "a <a href='http://bretheim.com'>website</a> on the World Wide Web"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
